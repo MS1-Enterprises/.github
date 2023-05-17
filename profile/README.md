@@ -1,4 +1,28 @@
-## Hi there 👋
+> MS1 Enterprises LLC is a private entity currently executing high-level real estate development & management.
+
+Industries of Investment:
+=========================
+
+* Real Estate Development/Management
+* Computer Technology Development/Contracting/Research
+* Blockchain Technology Development/Contracting/Research
+* Social Media 
+* Cannabis Growth/Research
+* Clothing Production/Distribution
+
+
+
+Asset Catalog:
+=========================
+
+
+
+* New Moon Retreat 
+* Detour Clothing
+* Orbit Technologies
+* RCVRY
+* Vanguard Genetics
+* 
 
 <!--
 
