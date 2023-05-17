@@ -4,7 +4,7 @@ Industries of Investment:
 =========================
 
 * Real Estate Development/Management
-* Computer Technology Development/Contracting/Research
+* Internet/Computer Technology Development/Contracting/Research (IoT)
 * Blockchain Technology Development/Contracting/Research
 * Social Media 
 * Cannabis Growth/Research
