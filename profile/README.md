@@ -1,4 +1,4 @@
-> MS1 Enterprises LLC is a private entity currently executing high-level real estate development & management.
+###### MS1 Enterprises LLC is currently executing high-level real estate development & management, asset management, and overall wealth optimization.
 
 Industries of Investment:
 =========================
